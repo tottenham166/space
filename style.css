@@ -1,0 +1,134 @@
+{margin:0;padding:0}
+
+/* Calling Fonts */
+
+@font-face{
+	
+	font-family:"audiowide-regular-webfont";
+	
+	
+	src: url("font/audiowide-regular-webfont.eot") format("eot"),
+	
+	url("font/audiowide-regular-webfont.woff") format("woff"),
+	
+	
+	
+	url("font/audiowide-regular-webfont.ttf") format("truetype"),
+	
+	
+	url("/font/audiowide-regular-webfont.svg") format("svg");
+	
+	
+}
+
+/* Calling Fonts */
+
+
+
+.current{ color:navy; }
+
+.fix{ overflow:hidden;}
+
+
+.container{ max-width:960px;}
+
+.one{
+	background:url(images/bg-home.jpg) no-repeat;
+	
+	background-size: 100% 100%;
+	
+}
+
+.menu ul li {padding-bottom: 18px;
+    padding-top: 15px;
+}
+
+.menu ul li:hover{ background:black;}
+.menu ul li a{ color:azure;}
+
+
+.head{ background:url(images/bg-transparent1.png) repeat; }
+
+
+.two{
+	
+	
+}
+
+
+.menu ul li a{}
+.menu ul li a:hover{}
+
+	p{
+		
+		text-align:justify;
+		font-size:14px;
+	}
+	
+	a{
+		display:block;
+		color:#000;
+		text-decoration:none;
+		padding:7px;
+		
+	}
+	
+	a:hover{
+		
+		text-decoration:none;
+	
+	}
+	
+	
+	.body_link{
+    background: black;
+    color: lightgray;
+}
+
+
+.gallary{ background:url(images/bg-transparent1.png) repeat;}
+.thumbnails img{ margin: 0 -5px;}
+
+
+
+.upper_section{ background:#630031; color:white;}
+	
+	
+	
+	body{
+		font-family:audiowide-regular-webfont;
+	}
+	
+		.searchbar input{ border:0; padding:0; margin:0}
+
+		
+		
+.span span {
+    background: url(images/icons.png) no-repeat 0 -151px;
+    width: 60px;
+    height: 74px;
+    position: absolute;
+    left: 230px;
+    bottom: 105px;
+
+}	
+		
+		
+		
+.social a{ display:inline;
+
+
+}	
+
+
+.blog{ background:black;}	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
